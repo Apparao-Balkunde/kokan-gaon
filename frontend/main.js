@@ -1,1 +1,0 @@
-console.log("Kokan Gaon Game Loaded!");
